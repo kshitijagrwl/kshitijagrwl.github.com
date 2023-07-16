@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on KshitijAgrwl&#39;s AI Blog</title>
+    <link>https://kshitijagrwl.github.io/posts/</link>
+    <description>Recent content in Posts on KshitijAgrwl&#39;s AI Blog</description>
+    <image>
+      <title>KshitijAgrwl&#39;s AI Blog</title>
+      <url>https://kshitijagrwl.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kshitijagrwl.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Jul 2023 20:24:05 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my tech blog </title>
+      <link>https://kshitijagrwl.github.io/posts/first-post/</link>
+      <pubDate>Sun, 16 Jul 2023 20:24:05 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.github.io/posts/first-post/</guid>
+      <description>Here are a few of my areas of interest, general research and things I find interesting.
+Areas of Interest - Large Lanuage Models
+Sequence classification, topic / doc classification, embeddings, vector search Computer Vision
+Semantic Segmentation, Object detection , pose detection Classical image processing Image quality assessment Face Recognition / Face Detection Few Shot Learning , Continual Learning , Metric Learning
+Model Deployment &amp;amp; Serving optimization
+Here are a list of my publications</description>
+    </item>
+    
+  </channel>
+</rss>
