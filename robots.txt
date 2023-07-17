@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://kshitijagrwl.github.io/sitemap.xml
+Sitemap: https://kshitijagrwl.com/sitemap.xml
