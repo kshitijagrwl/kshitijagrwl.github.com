@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>KshitijAgrwl - AI Researcher</title>
+    <title>KshitijAgrawal - AI Researcher</title>
     <link>https://kshitijagrwl.com/</link>
-    <description>Recent content on KshitijAgrwl - AI Researcher</description>
+    <description>Recent content on KshitijAgrawal - AI Researcher</description>
     <image>
-      <title>KshitijAgrwl - AI Researcher</title>
+      <title>KshitijAgrawal - AI Researcher</title>
       <url>https://kshitijagrwl.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://kshitijagrwl.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 16 Jul 2023 20:24:05 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consulting</title>
+      <link>https://kshitijagrwl.com/consulting/</link>
+      <pubDate>Sun, 23 Jul 2023 01:10:52 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/consulting/</guid>
+      <description>Having seen multiple 0-to-1 journies, I enjoy the challenge of building and scaling new technological systems. I have worked across marketplaces, chipmakers, military-tech, gaming/adtech, generative apps, hrms systems and many more. Here is how I like to select projects
+High-Value Projects: I seek projects that leverage my expertise and create significant impact for founders, and in return, equitable compensation. Exploring new industries: I intend to pursue opportunities that explore different avenues and industries while leveraging my knowledge across systems.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://kshitijagrwl.com/about/</link>
+      <pubDate>Sun, 23 Jul 2023 00:15:36 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/about/</guid>
+      <description>I have 10 years of experience building large scale computer vision and nlp systems in innovation teams across small to large enterprise and startups.
+I have deployed large scale LLM/CV solutions, for document processing and image generation (at Swiggy), autonomous driving (at Intel) and night vision systems (deployed on Arjun Tank4). I have published research at AI conferences - NeurIPs, AAAI and ICCV.
+Research Interests Embeddings for multi-task representation Search systems Named entity recognition Natural information extraction Semantic Segmentation Object detection Few shot learning Multimodal systems Here are a list of my publications</description>
+    </item>
+    
     <item>
       <title>Welcome to my tech blog </title>
       <link>https://kshitijagrwl.com/posts/first-post/</link>
