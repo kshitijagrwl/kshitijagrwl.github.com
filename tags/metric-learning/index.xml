@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Kshitij Agrawal - AI Scientist</title>
-    <link>https://kshitijagrwl.com/posts/</link>
-    <description>Recent content in Posts on Kshitij Agrawal - AI Scientist</description>
+    <title>metric-learning on Kshitij Agrawal - AI Scientist</title>
+    <link>https://kshitijagrwl.com/tags/metric-learning/</link>
+    <description>Recent content in metric-learning on Kshitij Agrawal - AI Scientist</description>
     <image>
       <title>Kshitij Agrawal - AI Scientist</title>
       <url>https://kshitijagrwl.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 01:50:44 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 01:50:44 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/tags/metric-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Deep Metric Learning</title>
       <link>https://kshitijagrwl.com/posts/on-metric-learning/</link>
@@ -20,20 +20,6 @@
       <guid>https://kshitijagrwl.com/posts/on-metric-learning/</guid>
       <description>We are witnessing a revival of interest in the space of metric learning or representation learning, due to the popularity of embedding models in the NLP space. I thought of penning down some thoughts on the evolution of metric learning over the years, particularly from the point of view of computer vision.
 Learning a powerful and generalizable representation has been of particular interest to researchers, as it has applications across a multitude of tasks like classification, person re-identification, face recognition, information retreival and recommender systems.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to my tech blog </title>
-      <link>https://kshitijagrwl.com/posts/first-post/</link>
-      <pubDate>Sun, 16 Jul 2023 20:24:05 +0530</pubDate>
-      
-      <guid>https://kshitijagrwl.com/posts/first-post/</guid>
-      <description>Here are a few of my areas of interest, general research and things I find interesting.
-Areas of Interest - Large Lanuage Models
-Sequence classification, topic / doc classification, embeddings, vector search Computer Vision
-Semantic Segmentation, Object detection , pose detection Classical image processing Image quality assessment Face Recognition / Face Detection Few Shot Learning , Continual Learning , Metric Learning
-Model Deployment &amp;amp; Serving optimization
-Here are a list of my publications</description>
     </item>
     
   </channel>
