@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 01:50:44 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 01:51:31 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Image Matting</title>
+      <link>https://kshitijagrwl.com/posts/image-matting-background-removal/</link>
+      <pubDate>Sun, 23 Jul 2023 01:51:31 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/posts/image-matting-background-removal/</guid>
+      <description>What is Image Matting Natural image matting is a fundamental and challenging computer vision task, which aims to predict an alpha matte from a given image. While being similar to semantic segmentation, matting, generates a more natural and delicate foreground than semantic segmentation. Plays a central role in downstream tasks like image editing, advertising, background removal and background replacement
+An image can be represented by a linear combination of foreground and background, with a blending of a parameter alpha.</description>
+    </item>
+    
     <item>
       <title>On Deep Metric Learning</title>
       <link>https://kshitijagrwl.com/posts/on-metric-learning/</link>
@@ -23,7 +33,7 @@ Learning a powerful and generalizable representation has been of particular inte
     </item>
     
     <item>
-      <title>Welcome to my tech blog </title>
+      <title>Welcome to my website </title>
       <link>https://kshitijagrwl.com/posts/first-post/</link>
       <pubDate>Sun, 16 Jul 2023 20:24:05 +0530</pubDate>
       

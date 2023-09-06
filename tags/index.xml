@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 01:50:44 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 01:51:31 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>background removal</title>
+      <link>https://kshitijagrwl.com/tags/background-removal/</link>
+      <pubDate>Sun, 23 Jul 2023 01:51:31 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/tags/background-removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep image matting</title>
+      <link>https://kshitijagrwl.com/tags/deep-image-matting/</link>
+      <pubDate>Sun, 23 Jul 2023 01:51:31 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/tags/deep-image-matting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image matting</title>
+      <link>https://kshitijagrwl.com/tags/image-matting/</link>
+      <pubDate>Sun, 23 Jul 2023 01:51:31 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/tags/image-matting/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>metric-learning</title>
       <link>https://kshitijagrwl.com/tags/metric-learning/</link>

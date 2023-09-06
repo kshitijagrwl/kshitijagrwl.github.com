@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 01:50:44 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 01:51:31 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Image Matting</title>
+      <link>https://kshitijagrwl.com/posts/image-matting-background-removal/</link>
+      <pubDate>Sun, 23 Jul 2023 01:51:31 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/posts/image-matting-background-removal/</guid>
+      <description>What is Image Matting Natural image matting is a fundamental and challenging computer vision task, which aims to predict an alpha matte from a given image. While being similar to semantic segmentation, matting, generates a more natural and delicate foreground than semantic segmentation. Plays a central role in downstream tasks like image editing, advertising, background removal and background replacement
+An image can be represented by a linear combination of foreground and background, with a blending of a parameter alpha.</description>
+    </item>
+    
     <item>
       <title>On Deep Metric Learning</title>
       <link>https://kshitijagrwl.com/posts/on-metric-learning/</link>
@@ -29,7 +39,7 @@ Learning a powerful and generalizable representation has been of particular inte
       
       <guid>https://kshitijagrwl.com/consulting/</guid>
       <description>Having seen multiple 0-to-1 journies, I enjoy the challenge of building and scaling new technological systems. I have worked across marketplaces, chipmakers, military-tech, gaming/adtech, generative apps, hrms systems and many more. Here is how I like to select projects
-High-Value Projects: I seek projects that leverage my expertise and create significant impact for founders, and in return, equitable compensation. Exploring new industries: I intend to pursue opportunities that explore different avenues and industries while leveraging my knowledge across systems.</description>
+High-Value Projects: I seek projects that leverage my expertise and unlock significant impact for startups and founders. Exploring new industries: I intend to pursue opportunities that explore different avenues and industries while leveraging my knowledge across systems.</description>
     </item>
     
     <item>
@@ -38,13 +48,13 @@ High-Value Projects: I seek projects that leverage my expertise and create signi
       <pubDate>Sun, 23 Jul 2023 00:15:36 +0530</pubDate>
       
       <guid>https://kshitijagrwl.com/about/</guid>
-      <description>I have 10 years of experience building large scale computer vision and nlp systems in innovation teams across small to large enterprise and startups.
-I have deployed large scale LLM/CV solutions, for document processing and image generation (at Swiggy), autonomous driving (at Intel) and night vision systems (deployed on Arjun Tank4). I have published research at AI conferences - NeurIPs, AAAI and ICCV.
-Research Interests Embeddings for multi-task representation Search systems Named entity recognition Natural information extraction Semantic Segmentation Object detection Few shot learning Multimodal systems Here are a list of my publications</description>
+      <description>I have 10 years of experience building large scale computer vision and nlp systems in innovation teams across small to large enterprises.
+I have deployed large scale LLM/CV solutions, for document processing, image generation and face recognition (at Swiggy), autonomous driving (at Intel) and night vision systems (deployed on Arjun Tank4). I have published research at AI conferences - NeurIPs, AAAI and ICCV.
+Research Interests Embeddings for multi-task representation Search systems Named entity recognition Natural information extraction Face Recognition / Verification Multimodal systems Few shot learning Semantic Segmentation Object detection Here are a list of my publications</description>
     </item>
     
     <item>
-      <title>Welcome to my tech blog </title>
+      <title>Welcome to my website </title>
       <link>https://kshitijagrwl.com/posts/first-post/</link>
       <pubDate>Sun, 16 Jul 2023 20:24:05 +0530</pubDate>
       

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>image matting on Kshitij Agrawal - AI Scientist</title>
+    <link>https://kshitijagrwl.com/tags/image-matting/</link>
+    <description>Recent content in image matting on Kshitij Agrawal - AI Scientist</description>
+    <image>
+      <title>Kshitij Agrawal - AI Scientist</title>
+      <url>https://kshitijagrwl.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kshitijagrwl.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jul 2023 01:51:31 +0530</lastBuildDate><atom:link href="https://kshitijagrwl.com/tags/image-matting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Image Matting</title>
+      <link>https://kshitijagrwl.com/posts/image-matting-background-removal/</link>
+      <pubDate>Sun, 23 Jul 2023 01:51:31 +0530</pubDate>
+      
+      <guid>https://kshitijagrwl.com/posts/image-matting-background-removal/</guid>
+      <description>What is Image Matting Natural image matting is a fundamental and challenging computer vision task, which aims to predict an alpha matte from a given image. While being similar to semantic segmentation, matting, generates a more natural and delicate foreground than semantic segmentation. Plays a central role in downstream tasks like image editing, advertising, background removal and background replacement
+An image can be represented by a linear combination of foreground and background, with a blending of a parameter alpha.</description>
+    </item>
+    
+  </channel>
+</rss>
