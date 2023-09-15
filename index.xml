@@ -18,8 +18,9 @@
       <pubDate>Sun, 23 Jul 2023 01:51:31 +0530</pubDate>
       
       <guid>https://kshitijagrwl.com/posts/image-matting-background-removal/</guid>
-      <description>What is Image Matting Natural image matting is a fundamental and challenging computer vision task, which aims to predict an alpha matte from a given image. While being similar to semantic segmentation, matting, generates a more natural and delicate foreground than semantic segmentation. Plays a central role in downstream tasks like image editing, advertising, background removal and background replacement
-An image can be represented by a linear combination of foreground and background, with a blending of a parameter alpha.</description>
+      <description>What is Image Matting Natural image matting is a fundamental computer vision task, which aims to predict an alpha matte of the foreground object from a given image. An image can be represented by a linear combination of foreground and background, with a blending of a parameter alpha. Mathematically, image matting is formulated as:
+Ii = αiFi + (1 − αi)Bi ,
+where Ii, αi, Fi and Bi are observed colour value, alpha value, foreground value and background value of pixel i, respectively.</description>
     </item>
     
     <item>
